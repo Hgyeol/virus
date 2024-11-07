@@ -2,7 +2,7 @@
     "manifest_version" : 3,
     "name" : "ko1ngduck",
     "description" : "We can't stop!",
-    "version" : "3",
+    "version" : "3.1",
     "icons" : {
         "128" : "icons/kongduck.png"
     },
